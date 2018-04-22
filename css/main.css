@@ -394,6 +394,10 @@ section .section-title {
     color: white;
 }
 
+.col-sm-6 {
+    padding: 10px;
+}
+
 
 
 
