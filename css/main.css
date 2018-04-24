@@ -398,6 +398,9 @@ section .section-title {
     padding: 10px;
 }
 
+#map {
+    height: 100%;
+  }
 
 
 
